@@ -58,24 +58,26 @@
 }
 .a-right>:nth-child(1)
 {
-    transform: scale(0.69);
+    transform: scale(0.75);
     left: -15%;
     top: -9%;    
 }
 .a-right>:nth-child(2)
 {
     top: -4.6rem;
-    transform: scale(0.67);
+    transform: scale(0.69);
     left: -3rem;
 }
 .a-right>:nth-child(3)
 {
-    transform: scale(1.4);
-    left: 28%;
+    transform: scale(0.5);
+    left: -16%; 
+    top: -30%; 
+    border-radius: 50%;  
 }
 .a-right>:nth-child(4)
 {
-    transform: scale(0.6);
+    transform: scale(0.5);
     top: -19%;
     left: -24%;
     border-radius: 50%;
