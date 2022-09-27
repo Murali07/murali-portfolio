@@ -89,6 +89,18 @@ const About = () => {
         ></div>
       </div> */}
 
+      <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
+      <div
+        className="blur"
+        style={{
+          background: "#C1F5FF",
+          top: "17rem",
+          width: "30rem",
+          height: "16rem",
+          left: "-5rem",
+        }}
+      ></div>
+
       <div className="profile-pic">
         <div className="profile-pic-bg"></div>
       </div>

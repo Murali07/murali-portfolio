@@ -96,13 +96,13 @@
 }
 .blur{
     position: absolute;
-    width: 22rem;
-    height: 14rem;
+    width: 28rem;
+    height: 24rem;
     border-radius: 50%;
     background: #edd0ff;
     z-index: -9;
     top: -18%;
-    left: 56%;
+    left: 46%;
     filter: blur(72px);
 }
 
